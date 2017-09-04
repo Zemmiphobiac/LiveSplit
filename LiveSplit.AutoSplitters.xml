@@ -3220,3 +3220,13 @@
     <Description>Tracks in-game time. (by Bigmanjapan)</Description>
   </AutoSplitter>
 </AutoSplitters>
+<AutoSplitter>
+    <Games>
+      <Game>Taco Bell: Tasty Temple Challenge</Game>
+    </Games>
+    <URLs>
+      <URL>https://raw.githubusercontent.com/drthttps://raw.githubusercontent.com/Zemmiphobiac/Taco-Bell-Tasty-Temple-Challenge-Autosplitter/master/TacoBellTastyTempleChallengeAutosplitter.aslchops/asl/master/dishonored2.asl</URL>
+    </URLs>
+    <Type>Script</Type>
+    <Description>Autosplitting is available (by Zemmiphobiac)</Description>
+  </AutoSplitter>
